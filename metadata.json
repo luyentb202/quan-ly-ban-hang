@@ -1,0 +1,5 @@
+{
+  "name": "POS & Inventory Management System",
+  "description": "A complete Point of Sale (POS) and Inventory Management web application for a small store, operating entirely on the client-side using localStorage. It features sales processing, product and inventory management, financial tracking, reporting, and customer/employee management with a modern, responsive UI.",
+  "requestFramePermissions": []
+}
